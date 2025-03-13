@@ -1,12 +1,16 @@
+# Ignorar arquivos de log
 *.log
 
+# Ignorar arquivos temporários e de backup
 *.tmp
 *.bak
 *.swp
 
+# Ignorar arquivos do sistema
 Thumbs.db
 .DS_Store
 
+# Ignorar pastas específicas do sistema
 node_modules/
 AppData/
 OneDrive/
@@ -16,7 +20,15 @@ Videos/
 Contacts/
 Favorites/
 
+# Ignorar arquivos específicos
 *.gitconfig
 ._netrc
 ntuser.dat*
 ntuser.ini
+
+# Ignorar arquivos temporários de outros programas
+.android/
+IntelGraphicsProfiles/
+Music/
+Searches/
+_netrc
