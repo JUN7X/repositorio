@@ -12,6 +12,11 @@ const SHOPEE_APP_SECRET = 'O6F7EENZ2FZE3IAGFN2C4R7S6QBDHN2T'; // Shopee Secret K
 const FACEBOOK_PIXEL_ID = '840837570802318'; // Pixel ID Facebook
 const FACEBOOK_ACCESS_TOKEN = 'EAARCfEvzABoBOyOpboS7CADXgYAhZC7UzpaBJbxp9YN9NoLzylDf2zs5xeuVBl8fQiWqxmxFtBW63CthK48GLKiBpzhWdNGua8MMED3lWbiBIjqk0tVlvoMxAvhdUOeXbGg8x05Q3l1YMEZAMmKbH1jyDLTwge9nRrBllvl4SJ2iZATaVvTTV7ewa1ZB12VggQZDZD'; // Access Token Facebook
 
+// Rota básica para a raiz
+app.get('/', (req, res) => {
+    res.send('Bem-vindo à API da Shopee e Facebook Ads!');
+});
+
 // Função para enviar dados para o Facebook Ads (via Pixel)
 async function sendToFacebook(eventData) {
     try {
