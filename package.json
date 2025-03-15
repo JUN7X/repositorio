@@ -4,7 +4,7 @@
   "description": "Integração de conversão entre Shopee e Facebook Ads",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "echo 'A integração entre Shopee e Facebook Ads está funcionando!' && node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
