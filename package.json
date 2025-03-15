@@ -1,0 +1,22 @@
+{
+  "name": "shopee-facebook-integration",
+  "version": "1.0.0",
+  "description": "Integração de conversão entre Shopee e Facebook Ads",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo 'A integração entre Shopee e Facebook Ads está funcionando!' && node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JUN7X/repositorio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JUN7X/repositorio/issues"
+  },
+  "homepage": "https://github.com/JUN7X/repositorio#readme",
+  "dependencies": {
+    "axios": 
