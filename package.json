@@ -19,4 +19,11 @@
   },
   "homepage": "https://github.com/JUN7X/repositorio#readme",
   "dependencies": {
-    "axios": 
+    "axios": "^1.8.3",
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}

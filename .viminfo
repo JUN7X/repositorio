@@ -11,6 +11,8 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq
+|2,0,1742005103,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -28,27 +30,40 @@
 	276
 <i€kb€kr€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kbwq€kl€kl€kb:€kr€kri€kbiiii€kb€kb€kb€kbq€kb€ý5€ý5i€ý5
 |3,0,18,0,1,0,1741840304,"i€kb€kr€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kbwq€kl€kl€kb:€kr€kri€kbiiii€kb€kb€kb€kbq€kb€ý5€ý5i€ý5"
-"w	CHAR	0
-	781
-<€ý5€ý5€ý5€ý5€ý5d€ý5ghkd€kb€kb ;wq€kb€kb€kb:wq€kbk€kb€ý5€ý5€ý5€ý5€ý5€ý5k€ý5jwwwwwmm€ý5€ý5jklwdd€ý5€ý5€ý5€ý5€ý5€ý5k€ý5k€kr€krsdwaa€kb€kb€kb€kb€kbwwwwwwwwwwwwwwwwwwwwwwwww€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€ý5€ý5€ý5€ý5€ý5jjhgfff€ý5gffd€ý5dss;€kb:€ý5€ý5€ý5€ý5@€ý5€ý5w€kb€kr€kr€kr€kr€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd
-|3,0,32,0,1,0,1741840227,>780
-|<"€ý5€ý5€ý5€ý5€ý5d€ý5ghkd€kb€kb ;wq€kb€kb€kb:wq€kbk€kb€ý5€ý5€ý5€ý5€ý5€ý5k€ý5jwwwwwmm€ý5€ý5jklwdd€ý5€ý5€ý5€ý5€ý5€ý5k€ý5k€kr€krsdwaa€kb€kb€kb€kb€kbwwwwwwwwwwwwwwwwwwwwwwwww€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€ý5€ý5
-|<€ý5€ý5€ý5jjhgfff€ý5gffd€ý5dss;€kb:€ý5€ý5€ý5€ý5@€ý5€ý5w€kb€kr€kr€kr€kr€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd"
+"q	CHAR	0
+	ww
+|3,0,26,0,1,0,1742005095,"ww"
 ""-	CHAR	0
-	w
-|3,1,36,0,1,0,1741840409,"w"
+	.
+|3,1,36,0,1,0,1742005081,"."
 
 # File marks:
-'0  5  2  ~/repositorio/.git/MERGE_MSG
-|4,48,5,2,1741840561,"~/repositorio/.git/MERGE_MSG"
+'0  1  71  ~/.git/MERGE_MSG
+|4,48,1,71,1742005103,"~/.git/MERGE_MSG"
+'1  5  2  ~/repositorio/.git/MERGE_MSG
+|4,49,5,2,1741840561,"~/repositorio/.git/MERGE_MSG"
 
 # Jumplist (newest first):
+-'  1  71  ~/.git/MERGE_MSG
+|4,39,1,71,1742005103,"~/.git/MERGE_MSG"
+-'  5  2  ~/repositorio/.git/MERGE_MSG
+|4,39,5,2,1741840561,"~/repositorio/.git/MERGE_MSG"
 -'  5  2  ~/repositorio/.git/MERGE_MSG
 |4,39,5,2,1741840561,"~/repositorio/.git/MERGE_MSG"
 -'  1  0  ~/repositorio/.git/MERGE_MSG
 |4,39,1,0,1741839807,"~/repositorio/.git/MERGE_MSG"
+-'  1  0  ~/repositorio/.git/MERGE_MSG
+|4,39,1,0,1741839807,"~/repositorio/.git/MERGE_MSG"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/MERGE_MSG
+	*	1742005098	0
+	"	1	71
+	^	1	73
+	.	1	72
+	+	1	5
+	+	1	72
 
 > ~/repositorio/.git/MERGE_MSG
 	*	1741840528	0
